@@ -1,0 +1,8 @@
+print("  ________")
+print(" ==========~~")
+print(" |      ` |")
+print("[|  O--O  |]")
+print("  \      /")
+print("   \  v /")
+print("    \  /")
+print("     \/")
